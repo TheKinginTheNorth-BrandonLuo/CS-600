@@ -1,8 +1,0 @@
-https://github.com/Victor328/CS600_Project(cpp)
-https://github.com/msatghar/search-engine
-https://github.com/tonyrusignuolo/CS600/tree/master/04.%20Project
-https://github.com/JSerowik/CS600
-https://github.com/jayrungta/CS600-search-engine(java*)
-https://github.com/yekesit/cs600-project(cpp)
-https://github.com/Freelancerhu/CS600-Search-Engine(cpp)
-https://github.com/llaryssa/CS600-project9.4(java)
